@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-09T11:46:49 IST" name="Suite" finished-at="2023-10-09T11:51:11 IST" duration-ms="262166">
+    <groups>
+    </groups>
+    <test started-at="2023-10-09T11:46:49 IST" name="Test" finished-at="2023-10-09T11:51:11 IST" duration-ms="262166">
+      <class name="practice1.Maven3.Drag">
+        <test-method signature="drop()[pri:0, instance:practice1.Maven3.Drag@40ef3420]" started-at="2023-10-09T11:46:49 IST" name="drop" finished-at="2023-10-09T11:47:58 IST" duration-ms="68666" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- drop -->
+        <test-method signature="tooltip()[pri:0, instance:practice1.Maven3.Drag@40ef3420]" started-at="2023-10-09T11:48:01 IST" name="tooltip" finished-at="2023-10-09T11:49:23 IST" duration-ms="81735" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tooltip -->
+      </class> <!-- practice1.Maven3.Drag -->
+      <class name="practice1.Maven3.Upload">
+        <test-method signature="check()[pri:0, instance:practice1.Maven3.Upload@5fdcaa40]" started-at="2023-10-09T11:49:50 IST" name="check" finished-at="2023-10-09T11:50:28 IST" duration-ms="38199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check -->
+      </class> <!-- practice1.Maven3.Upload -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
